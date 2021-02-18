@@ -1,4 +1,5 @@
 # Lee's Git Practice
+
 ## The URL
 [This](https://simon-holdorf.medium.com/how-to-stand-out-as-a-software-engineer-in-2021-insights-advice-803016bf8d38) is an article that I find to be very interesting and relevant now more than ever.
 
